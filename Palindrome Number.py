@@ -14,5 +14,8 @@ class Solution:
 '''
 第二版受到discuss上的启发，把判断语句消去了。
 当x是负数时，|x|!=x
+
+还有一种方法是用reverse integer里面的方法，
+逆转x之后与原x对比
 '''
 
