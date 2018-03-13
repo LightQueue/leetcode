@@ -1,3 +1,4 @@
+#1st edition 48ms
 class Solution:
     def longestCommonPrefix(self, strs):
         if not strs:
